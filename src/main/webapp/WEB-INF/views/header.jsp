@@ -39,12 +39,10 @@
                                     <a href="/about">About</a>
                                 </li>
                                 <li>
-                                    <a href="/careers">Careers</a>
+                                    <a href="/careers">Jobs</a>
                                 </li>
                                 <li>
-                                    <a href="#">
-                                        Locations
-                                    </a>
+                                    <a href="#">Locations</a>
                                     <ul>
                                         <li>
                                             <a href="#">Cypress Creek</a>

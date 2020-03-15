@@ -40,7 +40,7 @@
                                 </li>
                                 
                                 <li>
-                                    <a href="/careers">Openings</a>
+                                    <a href="/careers">Careers</a>
                                 </li>
                               
                                 <li>

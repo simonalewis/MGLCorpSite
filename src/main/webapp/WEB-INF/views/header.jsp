@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Sydney Australia</a>
+                                            <a href="#">Sydney, Australia</a>
                                         </li>
                                     </ul>
                                 </li>

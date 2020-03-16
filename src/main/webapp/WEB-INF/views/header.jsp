@@ -40,7 +40,8 @@
                                 </li>
                                 
                                 <li>
-                                    <a href="/careers">Careers</a>
+                                    <!-- as per STORY STRY0010001 -->
+                                    <a href="/careers">Jobs</a>
                                 </li>
                               
                                 <li>
